@@ -8,7 +8,7 @@ const About = () => {
   const data = {
     name: "Hari impex Ecommerce",
   };
-
+ 
   return (
     <>
       {myName}
